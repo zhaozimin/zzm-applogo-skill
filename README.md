@@ -2,6 +2,10 @@
 
 告诉 AI「帮我下载 ChatGPT、Obsidian 和飞书的 App logo」，将应用图标保存到工作区。
 
+![App logo 效果预览：统一尺寸的圆角应用图标](assets/app-logo-preview.png)
+
+图标效果示例。下载后的 PNG 文件保存到工作区或指定目录。
+
 从 **苹果 App Store** 与 **[macosicons.com](https://macosicons.com/)** 查找图源，统一输出 **1024×1024 透明 PNG、圆角和柔和阴影**。支持单个下载、批量编号、候选预览及下载报告。
 
 无需登录、API Key 或素材库软件。下载过程中不修改系统图标，不扫描本机应用。

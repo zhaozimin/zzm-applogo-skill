@@ -6,6 +6,7 @@ Python 3.10+ + Pillow + NumPy + unittest
 zzm-applogo/ - 可独立安装的 Skill。包含入口、图源与渲染器。
 tests/ - 离线行为回归。验证识别、渲染和落盘边界。
 .github/ - 持续集成。验证三个系统的 Python 执行链路。
+assets/ - README 展示素材。包含应用图标效果截图。
 </directory>
 
 <config>
