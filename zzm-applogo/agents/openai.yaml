@@ -1,0 +1,10 @@
+# [INPUT]: 依赖父级 SKILL.md 的能力边界。
+# [OUTPUT]: 提供 Skill 界面元数据与自动发现策略。
+# [POS]: agents 的声明文件。不参与下载执行。
+# [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
+interface:
+  display_name: "zzm-applogo"
+  short_description: "从 App Store 与 macosicons 下载应用图标，统一为透明圆角阴影 PNG"
+  default_prompt: "请使用 $zzm-applogo 帮我下载指定 App 的常规版图标，保存到当前工作区。"
+policy:
+  allow_implicit_invocation: true
